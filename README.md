@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arslan555
 - 👀 I’m interested in Programming & Wandering
-- 🌱 I’m currently learning Jeptack Compose
+- 🌱 I’m currently learning Jeptack Compose, MultiModule Architecture
 - 📫 You can reach me out on linkedin https://www.linkedin.com/in/mirza-arslan/
 
 <!---
